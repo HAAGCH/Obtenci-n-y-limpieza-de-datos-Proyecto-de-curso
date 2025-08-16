@@ -1,4 +1,4 @@
-# ObtenciOn-y-limpieza-de-datos-Proyecto-de-curso
+# Obtencion-y-limpieza-de-datos-Proyecto-de-curso
 Peer-graded Assignment: Getting and Cleaning Data Course Project
 This repository is a HAAGCH submission for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
 
